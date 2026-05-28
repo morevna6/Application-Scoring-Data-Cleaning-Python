@@ -55,6 +55,10 @@ The final analysis shows the average application score of accepted applications 
 
 This helps evaluate how the quality of accepted applications changes over time.
 
+## Project Preview
+
+![Application Scoring and Data Cleaning Preview](images/ApplicationScoringDataCleaningPython.png)
+
 ## Project File
 
 The main analysis is available in:
