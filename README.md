@@ -57,7 +57,7 @@ This helps evaluate how the quality of accepted applications changes over time.
 
 ## Project Preview
 
-![Application Scoring and Data Cleaning Preview](images/ApplicationScoringDataCleaningPython.png)
+![Application Scoring and Data Cleaning Preview](ApplicationScoringDataCleaningPython.png)
 
 ## Project File
 
